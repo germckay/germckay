@@ -3,7 +3,6 @@
 - Interests: Actuarial / Data Science
 
 **Connect With Me**
-[![website](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)](https://www.linkedin.com/in/mckay-gerratt/)
 <a href="https://www.linkedin.com/in/mckay-gerratt/">
   <img alt="LinkedIn" width="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
