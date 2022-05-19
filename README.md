@@ -1,6 +1,7 @@
 **About Me**
-- Statistics Master's Student at Brigham Young University
-- Interests: Actuarial / Data Science
+- BYU Graduate: MS in Statistics / BS in Actuarial Science
+- Career Focus: Actuarial / Data Science
+- Interests: Disc Golf, Ultimate Frisbee, and Board Games
 
 **Connect With Me**
 
